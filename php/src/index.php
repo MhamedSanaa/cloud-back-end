@@ -10,6 +10,7 @@ $user = 'clouduser';
 //database user password
 $pass = 'cloudpwd';
 
+
 // database name
 $mydatabase = 'clouddb';
 // check the mysql connection status
